@@ -83,7 +83,7 @@ The course is divided into four sections, each building on the previous to reinf
 ## How to Run the Projects
 1. Clone the repository:
    ```bash
-   git clone https://github.com/maxim-francesco/TailwindCourse.git
+   git clone https://github.com/maxim-francesco/tailwind-course.git
    ```
 2. Navigate to the desired project folder (e.g., `/section-3` or `/section-4`).
 3. Install dependencies and set up Tailwind CSS as outlined in `/section-1`:
